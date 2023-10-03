@@ -1,0 +1,3 @@
+﻿  SpanningTreePrim.cpp
+B:\UNI\GraphApplication\GraphApplication\SpanningTreePrim.cpp(14,8): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  GraphApplication.vcxproj -> B:\UNI\GraphApplication\x64\Debug\GraphApplication.exe
